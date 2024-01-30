@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+}
+.box{
+    height:200px;
+    width:200px;
+    border:10px solid black;
+    border-radius: 20%;
+    margin:1rem;
+}
+.first-line{
+    display:flex;
+    width:500px;
+    margin:0px auto;
+}
+.second-line{
+    display: flex;
+    width:500px;
+    margin:0px auto;
+}
+.purple{
+    background-color: purple;
+}
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.gameflash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
